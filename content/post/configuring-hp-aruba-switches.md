@@ -1,6 +1,11 @@
 ---
 title: "Configuring an HP/Aruba Switch"
-date: 2021-07-27T18:25:55-05:00
+tags: [
+    "Networking",
+]
+date: 2021-07-27
+
+
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Wirchbench Blog"
-theme = "ghostwriter"
+theme = "bare"
 
 [Params]
     mainSections = ["post"]

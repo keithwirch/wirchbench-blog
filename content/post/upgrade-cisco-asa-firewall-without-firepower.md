@@ -1,6 +1,10 @@
 ---
 title: "Upgrading Cisco ASA Firmware without Firepower"
 date: 2022-03-22T13:19:55-05:00
+tags: [
+    "Networking",
+    "Cisco",
+]
 draft: false
 ---
 

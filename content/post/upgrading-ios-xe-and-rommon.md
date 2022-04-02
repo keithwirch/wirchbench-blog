@@ -1,6 +1,10 @@
 ---
 title: "Upgrading IOS-XE and ROMMON"
 date: 2022-04-02
+tags: [
+    "Networking",
+    "Cisco",
+]
 draft: false
 ---
 
