@@ -9,7 +9,7 @@ draft: false
 
 CUIC is available by navigating to the node IP with port 8444 (https://<nodename/ip>:8444)
 
-The following information was directed to me to be done by Cisco TAC is a case where I had very slow performance in CUIC and our Wallboard software on certain UCCX Node.  According to Cisco this can be done during the day but out of caution I perfomed this in off hours.  This was also done on both nodes
+The following information was directed to me to be done by Cisco TAC is a case where I had very slow performance in CUIC and our Wallboard software on certain UCCX Node.  According to Cisco this can be done during the day but out of caution I performed this in off hours.  This was also done on both nodes
 
 If the queries to the CUIC database or Wallboard are running slow we may need to clear the Cache to speed up queries.  
 
