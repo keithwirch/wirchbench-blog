@@ -16,3 +16,11 @@ theme = "bare"
 
 [Permalinks]
     post = "/:filename/"
+
+[[params.social]]
+icon = "github-circle"
+url = "https://github.com/keithwirch/"
+
+[[params.social]]
+icon = "twitter"
+url = "https://twitter.com/keithwirch"
