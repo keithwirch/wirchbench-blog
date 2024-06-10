@@ -28,7 +28,7 @@ switch# configure terminal
 switch(config)# radius-server host <radius_server_ip> auth-port <int> acct-port <int> key <secret>
 ```
 
-### Add RADIUS Servers to a Group
+### 2. Add RADIUS Servers to a Group
 
 ```plaintext
 switch(config)# aaa server-group radius <radius_group_name> host <radius_server_ip>
