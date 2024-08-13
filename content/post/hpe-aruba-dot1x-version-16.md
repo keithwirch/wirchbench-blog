@@ -71,5 +71,11 @@ Verify the configuration using the following commands.
 switch# show authentication  # Show the configured authentication groups for each service
 switch# show port-access authenticator  # Show ports enabled with authenticator
 switch# show port-access mac-based  # Show ports enabled with MAC-based authentication
-switch# show access-list radius <port> # show any access list enable on a port.
+switch# show access-list radius <port> # Show any access list enable on a port.
+show port-access clients # Show clients using port-access
+show port-access clients <port> # Show clients using port-access on a specific port
 ```
+
+### References
+https://support.hpe.com/techhub/eginfolib/networking/docs/switches/WB/15-18/5998-8152_wb_2920_asg/content/ch13s10.html
+https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-c02642107
